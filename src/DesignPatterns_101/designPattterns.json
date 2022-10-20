@@ -19,6 +19,12 @@
     "description": "Defines a family of algorithms, encapsulate each one, and make them interchangeable. \nStrategy lets the algorithm vary independently from clients that use it\n"
   },
   {
+    "name": "Visitor",
+    "className": "Visitor",
+    "category": "Behavioral",
+    "description": "The Visitor design pattern represents an operation to be performed on the elements of an object structure. This pattern lets you define a new operation without changing the classes of the elements on which it operates.\n"
+  },
+  {
     "name": "Abstract Factory",
     "className": "AbstractFactory",
     "category": "Creational",
@@ -53,6 +59,11 @@
     "className": "Facade",
     "category": "Structural",
     "description": "Provides an unified interface to a set of interfaces in a subsystem. \nFa�ade defines a higher-level interface that makes the subsystem easier to use.\n"
-  } 
-
+  },
+  {
+    "name": "Decorator",
+    "className": "Decorator",
+    "category": "Structural",
+    "description": "Dynamically adds extra functionality to an existing object.\n"
+  }
 ]
