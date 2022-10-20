@@ -5,7 +5,26 @@ A fun and extensible collection of the most used design patterns proposed in the
 Implement new design patterns following the folder structure and fill-out the designPatterns.json to generate the UI.
 
 <br/>
-<img src="images/screenshot.png"/>
+
+Implemented patterns:
+```bash
+├── Behavioral
+│   ├── Command
+│   ├── Observer
+│   ├── Strategy
+│   ├── Visitor
+├── Creational
+│   ├── AbstractFactory
+│   ├── FactoryMethod
+│   ├── Singleton
+├── Structural
+│   ├── Adapter
+│   ├── Composite
+│   ├── Decorator
+│   ├── Facade
+└── 
+```
+
 
 <br/>
 
